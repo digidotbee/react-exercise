@@ -11,7 +11,7 @@ yarn start
 
 ### Components can be placed in the components folder
 
-## make a HelloWord component...
+## make a HelloWorld component...
 
 h2 of "Hello World"
 
@@ -29,7 +29,7 @@ h2 of "Hello World"
 
 ## Make a card component that takes a user
 
-and displays a telephone number as a p tag
+and displays a telephone number as a p tag (TURNARY)
 
 if it exists (otherwise show "N/A")
 

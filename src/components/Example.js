@@ -1,3 +1,3 @@
 export default function Example() {
-    return <p>Example</p>
+    return <p>Please Enter your name below:</p>
 }
